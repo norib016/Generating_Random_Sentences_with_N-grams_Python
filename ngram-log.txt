@@ -1,0 +1,56 @@
+Generating 10 sentences using ngrams with n = 1 :
+1. He he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he he.
+2. Here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here here.
+3. Bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare bare.
+4. They they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they they.
+5. Would would would would would would would would would would would would would would would would would would would would would would would would would would would would would would would would would would.
+6. Have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have.
+7. Me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me.
+8. I i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i i.
+9. Put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put put.
+10. It it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it.
+
+Time taken to run the program = 195.42008519172668seconds
+
+Generating 10 sentences using ngrams with n = 2 :
+1. And have done.
+2. Prince hippolyte spluttered and such masterly report run on the rest of the rest of the rest of the rest of the rest of the rest of the rest of the rest of the.
+3. Well then we will we will we will we will we will we will we will we will we will we will we will we will we will we will we will we will.
+4. Contents act ii.
+5. The staff officer to the staff officer to the staff officer to the staff officer to the staff officer to the staff officer to the staff officer to the staff officer to the staff.
+6. Took to theseus; we will took to theseus; we will took to theseus; we will took to theseus; we will took to theseus; we will took to theseus ;.
+7. On the public place me now more serious importeth thee in the public place me now more serious importeth thee in the public place me now more serious importeth thee in the public place.
+8. Guiderius.
+9. In quiet grave and of perfect liberty; i may i may i may i may i may i may i may i may i may i may i may i may i may.
+10. When would tread upon you will which were uncle ” “ yes: “ yes: “ yes: “ yes: “ yes: “ yes: “ yes: “ yes :.
+
+Time taken to run the program = 111.00791668891907seconds
+
+Generating 10 sentences using ngrams with n = 3 :
+1. Did not know how much low peasantry would then be my horses?.
+2. Heart by faith and order is being led out of temper.
+3. That thou shouldst print more, that unmatch ’ d these three lead on to the song of songs and sonnets here.
+4. Must needs have them ready against their will; if the question of the pout being kept here by some outside loitering, fag seated himself in the prince rapidly.
+5. That thou shouldst print more, the stamp of one who the villains that do run upon the sweetest temper in the stout princess, with the sole remaining chance of verifying in his.
+6. Make reply without a sense of obligation to me as secret as i may not he himself stuck not to mention that i might love thee in the place the peasants presented him with.
+7. Ere night they went on blandly smiling with his keen sensibilities towards this fair good morrow, good master gower, my lord.
+8. Right royal sovereign.
+9. Is nothing living but to promise is most like a misshaped and sullen presage of your mother came into the parlor where the norweyan lord, prepare thy brow; thy name?.
+10. Thousand times than risk receiving an unkind self, to thy strong bidding task ariel and all this was to stab his wife._] gratiano.
+
+Time taken to run the program = 140.14048838615417seconds
+
+Generating 10 sentences using ngrams with n = 4 :
+1. Road ran.
+2. Slanders ride, the which no warrant can defend me.
+3. Violent thefts and rob in the behalf of the whole universe there is a war now against napoleon.
+4. And jested resolutely and loudly at table with the fist of his newly bled arm so violently that she could not help laughing.
+5. Let the poor woman has been to the university, but he probably was not even possible to express that hatred by fighting a battle had taken place in the princess ’ order and.
+6. Word would harrow up thy soul; freeze thy young blood, make thy two eyes like stars start from their spheres to hear the worst, ” said the visitor; “ a.
+7. Checks, online payments and credit card donations.
+8. Months in the snow to mark the full-fraught man and best indued with some suspicion?.
+9. Whose whole life could not atone for his fault the other day with playing at sword and dagger with a master of the revels to theseus quince, the carpenter snug, the joiner.
+10. Sir james's strongest way of implying that he thought so too.
+
+Time taken to run the program = 239.04801034927368seconds
+
