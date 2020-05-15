@@ -1,4 +1,4 @@
-# Generating_Random_Sentences_with_N-gram_Language_Model with NLP, N-gram model, Markov assumption, text-processing
+# Generating_Random_Sentences_with_N-gram_Language_Model with NLP, N-gram model, Markov assumption, text-processing(From Scratch)
 
 1. Project objective
 
